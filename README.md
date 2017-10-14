@@ -1,2 +1,2 @@
 # canvas-clock
-a simple clock to learn features of canvas
+a simple clock to learn features of canvas with javascript.
